@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @Nagababu3940
-- 👀 I’m interested in all software works on java ,python,c  
-- 🌱 I’m currently learning machine learning.
-- 💞️ I’m looking to collaborate on wipro
+- 👀 I’m interested in all software works on java ,python,c
+
 - 📫 How to reach me 9642554243
 
 <!---
